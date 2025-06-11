@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/kkanova0/node:azure-5ec5ba91f01cf5cc6c9c1cfeebe893fde2f735ed
+        - image: quay.io/kkanova0/node:azure-060d961dc15e4ff135ce671eda1c0e46f6ce5e54
           name: container-image
